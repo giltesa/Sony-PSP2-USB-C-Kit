@@ -9,6 +9,8 @@ This board is compatible with these models:
 *   Sony PSP 2000
 *   Sony PSP 3000
 
+![Sony-PSP-USB-C](https://raw.githubusercontent.com/giltesa/Sony-PSP2-USB-C-Kit/master/4.%20Photos/Sony%20PSP2%20v1.2.jpg)
+
 
 ## Would you like it?
 
