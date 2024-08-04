@@ -1,6 +1,6 @@
-# Sony PSP USB-C
+# Sony PSP 2 USB-C Kit
 
-The **Sony PSP: USB-C** is a board that allows to replace the original charging connector for a modern and standard **USB-C**.
+The **Sony PSP 2: USB-C Kit** is a board that allows to replace the original charging connector for a modern and standard **USB-C**.
 
 **If your original connector is too old or damaged** and you need a new one, or **if you would like to charge your Sony PSP with a standard USB-C charger**, like the charger of your phone, laptop, you can with this board.
 
